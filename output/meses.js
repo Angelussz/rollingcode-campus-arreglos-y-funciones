@@ -24,4 +24,5 @@
         document.write(listaMeses);
     };
     ej1MesesPantalla();
+    console.log("hoa");
 })();
